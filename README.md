@@ -1,3 +1,6 @@
-Hello! People tend to call me Fisher, 
-I am 19, and am often not really comfortable with people who are vastly younger than me, so please do not interact if you are very young. 
-For verification of which, this is my birthdate :  ' 9 / 30 / 2005 ' 
+<p align="center">Hello, hello! Greetings, greetings!</p>
+<p align="center"> ~ </p>
+<p align="center"> It is nice to see you have come to make a visit to my github! I shall embelish you in what entertainment I can provide.</p>
+<p align="center"> ~ </p>
+<p align="center"> My name is Fisher, but you may call me whatever you like. As long as it's comfortable to me. </p>
+
